@@ -30,7 +30,7 @@ jobs:
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
 
-          plugin_calendar: yes
+          plugin_calendar: no
 
       - uses: lowlighter/metrics@latest
         with:
