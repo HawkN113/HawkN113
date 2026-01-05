@@ -13,7 +13,7 @@
             <img src="https://img.shields.io/nuget/v/Flash.Configuration.wpf?label=Flash.Configuration.Wpf" /></br>
             <img src="https://img.shields.io/nuget/v/Flash.Configuration.winforms?label=Flash.Configuration.Winforms" /></br>
           </td>
-        <td align="top" width="300px">
+        <td align="top" width="200px">
           <sub>
             <b><a href="https://github.com/HawkN113/Flash.Configuration" target="_blank">Flash.Configuration</a></b> is a configuration management tool that enables dynamic parsing and updating of configuration settings, including updating configuration files after build.
           </sub>
