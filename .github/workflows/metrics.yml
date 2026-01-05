@@ -27,6 +27,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.posts.svg
+          base: ""
           
           # Articles
           plugin_posts: yes
