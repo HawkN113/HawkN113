@@ -33,6 +33,9 @@ jobs:
           # Medium.com
           plugin_posts: yes
           plugin_posts_source: medium, dev.to
+          plugin_posts_token: ${{ secrets.DEVTO_TOKEN }}
+          plugin_posts_limit: 6
           plugin_posts_user: nselyutin
           plugin_posts_devto: hawkn113
-          plugin_posts_limit: 3
+          plugin_posts_descriptions: no
+          plugin_posts_covers: no
