@@ -31,8 +31,10 @@ jobs:
           plugin_achievements_threshold: B
           
           # Articles
+          ## Dev.to
           plugin_posts: yes
-          plugin_posts_source: external
-          plugin_posts_limit: 5
-          plugin_posts_user: external 
-          plugin_posts_external: https://dev.to/feed/hawkn113, https://medium.com/feed/@nselyutin
+          plugin_posts_source: dev.to
+          plugin_posts_limit: 4
+          plugin_posts_descriptions: yes
+          plugin_posts_user: hawkn113
+          plugin_posts_covers: yes
