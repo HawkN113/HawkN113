@@ -30,12 +30,9 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
           
-          # Medium.com
+          # Articles
           plugin_posts: yes
-          plugin_posts_source: medium, dev.to
-          plugin_posts_token: ${{ secrets.DEVTO_TOKEN }}
-          plugin_posts_limit: 6
-          plugin_posts_user: nselyutin
-          plugin_posts_devto: hawkn113
+          plugin_posts_source: external
           plugin_posts_descriptions: no
-          plugin_posts_covers: no
+          plugin_posts_limit: 8
+          plugin_posts_external: https://dev.to/feed/hawkn113, https://medium.com/feed/@nselyutin
