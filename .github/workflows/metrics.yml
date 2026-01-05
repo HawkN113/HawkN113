@@ -34,3 +34,11 @@ jobs:
           plugin_posts_limit: 4
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_traffic: yes
+          
