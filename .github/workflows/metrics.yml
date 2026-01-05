@@ -26,8 +26,9 @@ jobs:
           plugin_languages_details: percentage
           
           # Archive
-          #plugin_achievements: yes
-          #plugin_achievements_display: compact
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
           
           # Medium.com
           plugin_posts: yes
