@@ -33,6 +33,6 @@ jobs:
           # Articles
           plugin_posts: yes
           plugin_posts_source: external
-          plugin_posts_descriptions: no
-          plugin_posts_limit: 8
+          plugin_posts_limit: 5
+          plugin_posts_user: external 
           plugin_posts_external: https://dev.to/feed/hawkn113, https://medium.com/feed/@nselyutin
