@@ -1,12 +1,14 @@
 <h4 align="left">📊 General Statistics</h4>
-  <p align="left">
+<div align="left">
     <img src="github-common-metrics.svg" width="48%" />
     <img align="right" src="metrics.plugin.posts.svg" width="48%" />
-</p>
+</div>
+<br clear="both" />
 <h4 align="left">📈 Repository Traffic</h4>
-<p align="left">
+<div align="left">
   <img src="metrics.plugin.traffic.svg" width="48%" />
-</p>
+</div>
+<br clear="both" />
 <h4 align="left" width="48%">🛠 Technology Stack</h4>
 <div align="left" width="48%">
   <sub>Backend & Core</sub>
