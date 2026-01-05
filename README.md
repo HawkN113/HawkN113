@@ -6,14 +6,14 @@
       <h4 align="left">📈 Repository Traffic</h4>
       <img src="metrics.plugin.traffic.svg" />
       <h4 align="left">🚀 Open Source Projects</h4>
-      <table >
+      <table>
         <tr>
-          <td>
+          <td valign="top">
             <img src="https://img.shields.io/nuget/v/Flash.Configuration?label=Flash.Configuration" /></br>
             <img src="https://img.shields.io/nuget/v/Flash.Configuration.wpf?label=Flash.Configuration.Wpf" /></br>
             <img src="https://img.shields.io/nuget/v/Flash.Configuration.winforms?label=Flash.Configuration.Winforms" /></br>
           </td>
-        <td align="top" width="200px">
+        <td valign="top" width="200px">
           <sub>
             <b><a href="https://github.com/HawkN113/Flash.Configuration" target="_blank">Flash.Configuration</a></b> is a configuration management tool that enables dynamic parsing and updating of configuration settings, including updating configuration files after build.
           </sub>
