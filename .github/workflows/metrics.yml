@@ -25,12 +25,9 @@ jobs:
           plugin_languages_ignored: html, css, json, xml
           plugin_languages_details: percentage
 
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, deployer, member, maintainer, developer,
-            scripter, packager, explorer
+          # Articles
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_limit: 2
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
