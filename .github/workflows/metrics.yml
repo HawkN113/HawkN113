@@ -30,7 +30,7 @@ jobs:
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
 
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
