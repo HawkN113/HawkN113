@@ -5,21 +5,6 @@
       <img src="github-common-metrics.svg" />
       <h4 align="left">📈 Repository Traffic</h4>
       <img src="metrics.plugin.traffic.svg" />
-      <h4 align="left">🚀 Open Source Projects</h4>
-      <table>
-        <tr>
-          <td valign="top">
-            <img src="https://img.shields.io/nuget/v/Flash.Configuration?label=Flash.Configuration" /></br>
-            <img src="https://img.shields.io/nuget/v/Flash.Configuration.wpf?label=Flash.Configuration.Wpf" /></br>
-            <img src="https://img.shields.io/nuget/v/Flash.Configuration.winforms?label=Flash.Configuration.Winforms" /></br>
-          </td>
-        <td valign="top" width="200px">
-          <sub>
-            <b><a href="https://github.com/HawkN113/Flash.Configuration" target="_blank">Flash.Configuration</a></b> is a configuration management tool that enables dynamic parsing and updating of configuration settings, including updating configuration files after build.
-          </sub>
-        </td>
-        </tr>
-      </table>
     </td>
     <td valign="top">     
       <h4 align="left">📝 Publications</h4>
@@ -56,3 +41,21 @@
     </td>
   </tr>
 </table>
+
+#### 🚀 Open Source Projects
+
+🔹 <sub>**[Flash.Configuration](https://github.com/HawkN113/Flash.Configuration)**</sub>  
+<sub>Dynamic configuration management for .NET with post-build updates and runtime reload support.</sub>
+
+![NuGet](https://img.shields.io/nuget/v/Flash.Configuration?label=Flash.Configuration)
+![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.Wpf?label=Flash.Configuration.Wpf)
+![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.WinForms?label=Flash.Configuration.WinForms)
+
+🔹 <sub>**[FlowLite](https://github.com/HawkN113/FlowLite)**</sub>  
+<sub>High-performance, thread-safe FSM for .NET for workflows, entity states, and testable domain logic.</sub>
+
+![NuGet](https://img.shields.io/nuget/v/FlowLite.Abstractions?label=FlowLite.Abstractions)
+![NuGet](https://img.shields.io/nuget/v/FlowLite?label=FlowLite)
+![NuGet](https://img.shields.io/nuget/v/FlowLite.Diag?label=FlowLite.Diag)
+![NuGet](https://img.shields.io/nuget/v/FlowLite.Testing?label=FlowLite.Testing)
+![NuGet](https://img.shields.io/nuget/v/FlowLite.Diagnostics?label=FlowLite.Diagnostics)
