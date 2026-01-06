@@ -47,15 +47,44 @@
 🔹 <sub>**[Flash.Configuration](https://github.com/HawkN113/Flash.Configuration)**</sub>  
 <sub>Dynamic configuration management for .NET with post-build updates and runtime reload support.</sub>
 
-![NuGet](https://img.shields.io/nuget/v/Flash.Configuration?label=Flash.Configuration)
-![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.Wpf?label=Flash.Configuration.Wpf)
-![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.WinForms?label=Flash.Configuration.WinForms)
+![NuGet](https://img.shields.io/nuget/v/Flash.Configuration?label=Flash.Configuration&style=flat)
+![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.Wpf?label=Flash.Configuration.Wpf&style=flat)
+![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.WinForms?label=Flash.Configuration.WinForms&style=flat)
 
 🔹 <sub>**[FlowLite](https://github.com/HawkN113/FlowLite)**</sub>  
 <sub>High-performance, thread-safe FSM for .NET for workflows, entity states, and testable domain logic.</sub>
 
-![NuGet](https://img.shields.io/nuget/v/FlowLite.Abstractions?label=FlowLite.Abstractions)
-![NuGet](https://img.shields.io/nuget/v/FlowLite?label=FlowLite)
-![NuGet](https://img.shields.io/nuget/v/FlowLite.Diag?label=FlowLite.Diag)
-![NuGet](https://img.shields.io/nuget/v/FlowLite.Testing?label=FlowLite.Testing)
-![NuGet](https://img.shields.io/nuget/v/FlowLite.Diagnostics?label=FlowLite.Diagnostics)
+![NuGet](https://img.shields.io/nuget/v/FlowLite.Abstractions?label=FlowLite.Abstractions&style=flat)
+![NuGet](https://img.shields.io/nuget/v/FlowLite?label=FlowLite&style=flat)
+![NuGet](https://img.shields.io/nuget/v/FlowLite.Diag?label=FlowLite.Diag&style=flat)
+![NuGet](https://img.shields.io/nuget/v/FlowLite.Testing?label=FlowLite.Testing&style=flat)
+![NuGet](https://img.shields.io/nuget/v/FlowLite.Diagnostics?label=FlowLite.Diagnostics&style=flat)
+
+<details>
+<summary><sub>📚 Reference frameworks & standards</sub></summary>
+
+<br/>
+
+🔹 <sub>**[HawkN.Iso.Countries](https://github.com/HawkN113/HawkN.Iso.Countries)**</sub>  
+<sub>ISO 3166-1 country codes (Alpha-2, Alpha-3), official names, numeric codes (UN M49), and validation services.</sub>
+
+![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Countries?label=HawkN.Iso.Countries&style=flat)
+
+🔹 <sub>**[HawkN.Iso.Currencies](https://github.com/HawkN113/HawkN.Iso.Currencies)**</sub>  
+<sub>ISO 4217 currency codes and replacement mappings.</sub>
+
+![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Currencies?label=HawkN.Iso.Currencies&style=flat)
+
+</details>
+
+<details>
+<summary><sub>🧩 Utilities & helpers</sub></summary>
+
+<br/>
+
+🔹 <sub>**[Cyanide.Cypher](https://github.com/HawkN113/Cyanide.Cypher)**</sub>  
+<sub>Lightweight C# library for building Cypher queries programmatically for Neo4j.</sub>
+
+![NuGet](https://img.shields.io/nuget/v/Cyanide.Cypher?label=Cyanide.Cypher&style=flat)
+
+</details>
