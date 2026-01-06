@@ -8,6 +8,8 @@
     </td>
     <td valign="top">     
       <h4 align="left">📝 Publications</h4>
+      <a href="https://dev.to/hawkn113" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="dev.to"></a>
+      <a href="https://medium.com/@nselyutin" target="_blank"><img src="https://img.shields.io/badge/medium.com-0A0A0A?style=flat&logo=medium.com&logoColor=white" alt="medium.com"></a>
       <img src="metrics.plugin.posts.svg" />
       <h4 align="left">🛠 Technology Stack</h4>
       <div align="left">
