@@ -49,18 +49,18 @@
 🔹 <sub>**[Flash.Configuration](https://github.com/HawkN113/Flash.Configuration)**</sub>  
 <sub>Dynamic configuration management for .NET with post-build updates and runtime reload support.</sub>
 
-![NuGet](https://img.shields.io/nuget/v/Flash.Configuration?label=Flash.Configuration&style=flat)![Flash.Configuration](https://img.shields.io/nuget/dt/Flash.Configuration?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
-![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.Wpf?label=Flash.Configuration.Wpf&style=flat)![Flash.Configuration.Wpf](https://img.shields.io/nuget/dt/Flash.Configuration.Wpf?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
-![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.WinForms?label=Flash.Configuration.WinForms&style=flat)![Flash.Configuration.WinForms](https://img.shields.io/nuget/dt/Flash.Configuration.WinForms?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
+[![NuGet](https://img.shields.io/nuget/v/Flash.Configuration?label=Flash.Configuration&style=flat)![Flash.Configuration](https://img.shields.io/nuget/dt/Flash.Configuration?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/Flash.Configuration/)
+[![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.Wpf?label=Flash.Configuration.Wpf&style=flat)![Flash.Configuration.Wpf](https://img.shields.io/nuget/dt/Flash.Configuration.Wpf?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/Flash.Configuration.Wpf/)
+[![NuGet](https://img.shields.io/nuget/v/Flash.Configuration.WinForms?label=Flash.Configuration.WinForms&style=flat)![Flash.Configuration.WinForms](https://img.shields.io/nuget/dt/Flash.Configuration.WinForms?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/Flash.Configuration.WinForms/)
 
 🔹 <sub>**[FlowLite](https://github.com/HawkN113/FlowLite)**</sub>  
 <sub>High-performance, thread-safe FSM for .NET for workflows, entity states, and testable domain logic.</sub>
 
-![NuGet](https://img.shields.io/nuget/v/FlowLite.Abstractions?label=FlowLite.Abstractions&style=flat)![FlowLite.Abstractions](https://img.shields.io/nuget/dt/FlowLite.Abstractions?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
-![NuGet](https://img.shields.io/nuget/v/FlowLite?label=FlowLite&style=flat)![FlowLite](https://img.shields.io/nuget/dt/FlowLite?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
-![NuGet](https://img.shields.io/nuget/v/FlowLite.Diag?label=FlowLite.Diag&style=flat)![FlowLite.Diag](https://img.shields.io/nuget/dt/FlowLite.Diag?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
-![NuGet](https://img.shields.io/nuget/v/FlowLite.Testing?label=FlowLite.Testing&style=flat)![FlowLite.Testing](https://img.shields.io/nuget/dt/FlowLite.Testing?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
-![NuGet](https://img.shields.io/nuget/v/FlowLite.Diagnostics?label=FlowLite.Diagnostics&style=flat)![FlowLite.Diagnostics](https://img.shields.io/nuget/dt/FlowLite.Diagnostics?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
+[![NuGet](https://img.shields.io/nuget/v/FlowLite.Abstractions?label=FlowLite.Abstractions&style=flat)![FlowLite.Abstractions](https://img.shields.io/nuget/dt/FlowLite.Abstractions?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/FlowLite.Abstractions/)
+[![NuGet](https://img.shields.io/nuget/v/FlowLite?label=FlowLite&style=flat)![FlowLite](https://img.shields.io/nuget/dt/FlowLite?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/FlowLite/)
+[![NuGet](https://img.shields.io/nuget/v/FlowLite.Diag?label=FlowLite.Diag&style=flat)![FlowLite.Diag](https://img.shields.io/nuget/dt/FlowLite.Diag?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/FlowLite.Diag/)
+[![NuGet](https://img.shields.io/nuget/v/FlowLite.Testing?label=FlowLite.Testing&style=flat)![FlowLite.Testing](https://img.shields.io/nuget/dt/FlowLite.Testing?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/FlowLite.Testing/)
+[![NuGet](https://img.shields.io/nuget/v/FlowLite.Diagnostics?label=FlowLite.Diagnostics&style=flat)![FlowLite.Diagnostics](https://img.shields.io/nuget/dt/FlowLite.Diagnostics?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/FlowLite.Diagnostics/)
 
 <details>
 <summary><sub>📚 Reference frameworks & standards</sub></summary>
@@ -70,12 +70,12 @@
 🔹 <sub>**[HawkN.Iso.Countries](https://github.com/HawkN113/HawkN.Iso.Countries)**</sub>
 <sub>ISO 3166-1 country codes (Alpha-2, Alpha-3), official names, numeric codes (UN M49), and validation services.</sub>
 
-![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Countries?label=HawkN.Iso.Countries&style=flat)![HawkN.Iso.Countries](https://img.shields.io/nuget/dt/HawkN.Iso.Countries?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)  
+[![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Countries?label=HawkN.Iso.Countries&style=flat)![HawkN.Iso.Countries](https://img.shields.io/nuget/dt/HawkN.Iso.Countries?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/HawkN.Iso.Countries/)
 
 🔹 <sub>**[HawkN.Iso.Currencies](https://github.com/HawkN113/HawkN.Iso.Currencies)**</sub>  
 <sub>ISO 4217 currency codes and replacement mappings.</sub>
 
-![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Currencies?label=HawkN.Iso.Currencies&style=flat)![HawkN.Iso.Currencies](https://img.shields.io/nuget/dt/HawkN.Iso.Currencies?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
+[![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Currencies?label=HawkN.Iso.Currencies&style=flat)![HawkN.Iso.Currencies](https://img.shields.io/nuget/dt/HawkN.Iso.Currencies?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/HawkN.Iso.Currencies/)
 
 </details>
 
@@ -87,6 +87,6 @@
 🔹 <sub>**[Cyanide.Cypher](https://github.com/HawkN113/Cyanide.Cypher)**</sub>  
 <sub>Lightweight C# library for building Cypher queries programmatically for Neo4j.</sub>
 
-![NuGet](https://img.shields.io/nuget/v/Cyanide.Cypher?label=Cyanide.Cypher&style=flat)![Cyanide.Cypher](https://img.shields.io/nuget/dt/Cyanide.Cypher?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)
+[![NuGet](https://img.shields.io/nuget/v/Cyanide.Cypher?label=Cyanide.Cypher&style=flat)![Cyanide.Cypher](https://img.shields.io/nuget/dt/Cyanide.Cypher?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/Cyanide.Cypher/)
 
 </details>
