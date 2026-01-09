@@ -65,14 +65,14 @@
 <details>
 <summary><sub>📚 Reference frameworks & standards</sub></summary>
 
-<br/>
+</br>
 
-🔹 <sub>**[HawkN.Iso.Countries](https://github.com/HawkN113/HawkN.Iso.Countries)**</sub>
+🔹 <sub>**[HawkN.Iso.Countries](https://github.com/HawkN113/HawkN.Iso.Countries)**</sub>  
 <sub>ISO 3166-1 country codes (Alpha-2, Alpha-3), official names, numeric codes (UN M49), and validation services.</sub>
 
 [![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Countries?label=HawkN.Iso.Countries&style=flat)![HawkN.Iso.Countries](https://img.shields.io/nuget/dt/HawkN.Iso.Countries?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/HawkN.Iso.Countries/)
 
-🔹 <sub>**[HawkN.Iso.Currencies](https://github.com/HawkN113/HawkN.Iso.Currencies)**</sub>  
+🔹 <sub>**[HawkN.Iso.Currencies](https://github.com/HawkN113/HawkN.Iso.Currencies)**</sub> 
 <sub>ISO 4217 currency codes and replacement mappings.</sub>
 
 [![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Currencies?label=HawkN.Iso.Currencies&style=flat)![HawkN.Iso.Currencies](https://img.shields.io/nuget/dt/HawkN.Iso.Currencies?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/HawkN.Iso.Currencies/)
@@ -82,7 +82,7 @@
 <details>
 <summary><sub>🧩 Utilities & helpers</sub></summary>
 
-<br/>
+</br>
 
 🔹 <sub>**[Cyanide.Cypher](https://github.com/HawkN113/Cyanide.Cypher)**</sub>  
 <sub>Lightweight C# library for building Cypher queries programmatically for Neo4j.</sub>
