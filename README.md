@@ -72,6 +72,10 @@
 
 [![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Countries?label=HawkN.Iso.Countries&style=flat)![HawkN.Iso.Countries](https://img.shields.io/nuget/dt/HawkN.Iso.Countries?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/HawkN.Iso.Countries/)
 
+<sub>Provides ISO-based mapping of primary and secondary currencies for countries.It allows you to quickly retrieve the main currency, secondary currencies, all currencies</sub>
+
+[![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Countries.Currencies?label=HawkN.Iso.Countries.Currencies&style=flat)![HawkN.Iso.Countries.Currencies](https://img.shields.io/nuget/dt/HawkN.Iso.Countries.Currencies?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/HawkN.Iso.Countries.Currencies/)
+
 🔹 <sub>**[HawkN.Iso.Currencies](https://github.com/HawkN113/HawkN.Iso.Currencies)**</sub>   
 <sub>ISO 4217 currency codes and replacement mappings.</sub>
 
