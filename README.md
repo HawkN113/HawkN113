@@ -72,7 +72,7 @@
 
 [![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Countries?label=HawkN.Iso.Countries&style=flat)![HawkN.Iso.Countries](https://img.shields.io/nuget/dt/HawkN.Iso.Countries?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/HawkN.Iso.Countries/)
 
-🔹 <sub>**[HawkN.Iso.Currencies](https://github.com/HawkN113/HawkN.Iso.Currencies)**</sub> 
+🔹 <sub>**[HawkN.Iso.Currencies](https://github.com/HawkN113/HawkN.Iso.Currencies)**</sub>   
 <sub>ISO 4217 currency codes and replacement mappings.</sub>
 
 [![NuGet](https://img.shields.io/nuget/v/HawkN.Iso.Currencies?label=HawkN.Iso.Currencies&style=flat)![HawkN.Iso.Currencies](https://img.shields.io/nuget/dt/HawkN.Iso.Currencies?label=&logo=nuget&color=brightgreen&style=flat&cacheSeconds=3600)](https://www.nuget.org/packages/HawkN.Iso.Currencies/)
