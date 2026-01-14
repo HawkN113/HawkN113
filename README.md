@@ -1,5 +1,19 @@
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h4 align="left">🧠 My Engineering philosophy</h4>
+      <sub>I build infrastructure and reference libraries with one goal: **reduce accidental complexity in real-world systems**.</sub></br>
+      <sub>My core principles:</sub></br>
+      🔹 <sub>Explicit over magical</sub></br>
+      🔹 <sub>Strong typing over strings and enums</sub></br>
+      🔹 <sub>Compile-time safety over runtime surprises</sub></br> 
+      🔹 <sub>Predictable behavior over clever abstractions</sub></br>
+      🔹 <sub>Infrastructure should disappear when it works</sub></br>
+      <sub>Most of my projects are born from production pain: configuration drift, fragile state handling, unclear domain models, and standards implemented as loosely-typed helpers.</sub> 
+      <sub>I prefer boring, stable, and well-defined systems — especially when they need to scale and live for years.</sub>
+    </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h4 align="left">📊 General Statistics</h4>
       <img src="github-common-metrics.svg" />
