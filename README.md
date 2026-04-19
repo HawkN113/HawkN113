@@ -1,16 +1,16 @@
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h4 align="left">🧠 My Engineering philosophy</h4>
-      <sub>I build infrastructure and reference libraries with one goal: **reduce accidental complexity in real-world systems**.</sub></br>
-      <sub>My core principles:</sub></br>
-      🔹 <sub>Explicit over magical</sub></br>
-      🔹 <sub>Strong typing over strings and enums</sub></br>
-      🔹 <sub>Compile-time safety over runtime surprises</sub></br> 
-      🔹 <sub>Predictable behavior over clever abstractions</sub></br>
-      🔹 <sub>Infrastructure should disappear when it works</sub></br>
-      <sub>Most of my projects are born from production pain: configuration drift, fragile state handling, unclear domain models, and standards implemented as loosely-typed helpers.</sub> 
-      <sub>I prefer boring, stable, and well-defined systems — especially when they need to scale and live for years.</sub>
+      <h4 align="left">🧠 CRAFTER Engineering Protocol</h4>
+      <sub>Targeting a single outcome: <b>eliminating accidental complexity via deterministic systems.</b></sub><br/>
+      <sub>System invariants:</sub><br/>
+      🔹 <sub><b>Explicit over magical</b>: Clarity is the ultimate engineering leverage.</sub><br/>
+      🔹 <sub><b>Type-Driven Safety</b>: Strong typing over strings; compile-time proof over runtime hope.</sub><br/>
+      🔹 <sub><b>Architectural Predictability</b>: Reliable behavior over clever, leaky abstractions.</sub><br/> 
+      🔹 <sub><b>Zero-Friction Infrastructure</b>: Systems must reach a state where they disappear.</sub><br/>
+      <br/>
+      <sub>Focused on solving <b>Production Erosion</b>: configuration drift, fragile states, and domain decay.</sub><br/>
+      <sub>I don't build software; I design <b>high-leverage environments</b> that are boring, stable, and built to outlive the hype.</sub>
     </td>
   </tr>
   <tr>
