@@ -1,16 +1,16 @@
 <table>
-  <tr>
+<tr>
     <td colspan="2" valign="top">
       <h4 align="left">🧠 <a href="https://github.com/HawkN113/CRAFTER-OS" target="_blank">C.R.A.F.T.E.R</a> Engineering Protocol</h4>
       <sub>Targeting a single outcome: <b>eliminating accidental complexity via deterministic systems.</b></sub><br/>
       <sub>System invariants:</sub><br/>
       🔹 <sub><b>Explicit over magical</b>: Clarity is the ultimate engineering leverage.</sub><br/>
       🔹 <sub><b>Type-Driven Safety</b>: Strong typing over strings; compile-time proof over runtime hope.</sub><br/>
-      🔹 <sub><b>Architectural Predictability</b>: Reliable behavior over clever, leaky abstractions.</sub><br/> 
+      🔹 <sub><b>Architectural Predictability</b>: Reliable behavior over clever, leaky abstractions.</sub><br/>
       🔹 <sub><b>Zero-Friction Infrastructure</b>: Systems must reach a state where they disappear.</sub><br/>
       <br/>
       <sub>Focused on solving <b>Production Erosion</b>: configuration drift, fragile states, and domain decay.</sub><br/>
-      <sub>I don't build software; I design <b>high-leverage environments</b> that are boring, stable, and built to outlive the hype.</sub>
+      <sub>I don't just build software; I design <b>high-leverage environments</b> that are boring, stable, and built to outlive the hype.</sub>
     </td>
   </tr>
   <tr>
