@@ -22,8 +22,9 @@
     </td>
     <td valign="top">     
       <h4 align="left">📝 Publications</h4>
-      <a href="https://dev.to/hawkn113" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="dev.to"></a>
-      <a href="https://medium.com/@nselyutin" target="_blank"><img src="https://img.shields.io/badge/medium.com-0A0A0A?style=flat&logo=medium.com&logoColor=white" alt="medium.com"></a>
+      <a href="https://dev.to/hawkn113" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+      <a href="https://medium.com/@nselyutin" target="_blank"><img src="https://img.shields.io/badge/medium.com-0A0A0A?style=flat&logo=medium.com&logoColor=white" alt="Medium.com"></a>
+      <a href="https://coderlegion.com/user/HawkN113" target="_blank"><img src="https://img.shields.io/badge/coderlegion-%230A0A0A?style=flat&logo=code&logoColor=white" alt="CoderLegion"></a>
       <img src="metrics.plugin.posts.svg" />
       <h4 align="left">🛠 Technology Stack</h4>
       <div align="left">
@@ -33,7 +34,8 @@
           <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=.net&logoColor=white" />
           <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat&logo=.net&logoColor=white" />
           <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
-          <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white" />            
+          <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
         </div>
         <sub>Cloud, DevOps & Infrastructure</sub>
         <div>
