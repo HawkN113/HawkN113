@@ -2,7 +2,7 @@
 <tr>
     <td colspan="2" valign="top">
       <h4 align="left">🧠 <a href="https://github.com/HawkN113/CRAFTER-OS" target="_blank">C.R.A.F.T.E.R</a> Engineering Protocol</h4>
-      <sub>Targeting a single outcome: <b>eliminating accidental complexity via deterministic systems.</b></sub><br/>
+      <sub>Targeting sustainable engineering execution: <b>reducing cognitive friction, execution variance, and coordination noise</b>.</sub><br/>
       <sub>System invariants:</sub><br/>
       🔹 <sub><b>Explicit over magical</b>: Clarity is the ultimate engineering leverage.</sub><br/>
       🔹 <sub><b>Type-Driven Safety</b>: Strong typing over strings; compile-time proof over runtime hope.</sub><br/>
