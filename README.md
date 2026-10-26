@@ -63,7 +63,7 @@
 #### 📋 Frameworks
 
 🔹 <sub>**[CRAFTER-OS](https://github.com/HawkN113/CRAFTER-OS)**</sub>  
-<sub>A <b>deterministic engineering framework</b> designed to eliminate <b>cognitive friction</b>, protect <b>deep work</b>, and transform raw effort into high-leverage <b>professional mastery</b>. Built for engineers who value systems over motivation.</sub>
+<sub>A <b>deterministic engineering framework</b> designed to reduce <b>cognitive friction</b>, protect <b>deep work</b>, and transform raw effort into high-leverage <b>professional mastery</b>. Built for engineers who value systems over motivation.</sub>
 
 [![](https://img.shields.io/badge/status-active-success?label=Status)](https://github.com/HawkN113/CRAFTER-OS)
 [![](https://img.shields.io/badge/version-1.0.0--beta-blue?label=Version)](https://github.com/HawkN113/CRAFTER-OS/releases)
